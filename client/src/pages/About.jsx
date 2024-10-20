@@ -1,7 +1,7 @@
-import React from 'react'
-import tempPic from '../assets/hero.jpg'
+import React from "react";
+import tempPic from "../assets/hero.jpg";
 import mePic from "../assets/mepic.jpg";
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 
 export default function About() {
   return (
@@ -10,20 +10,29 @@ export default function About() {
         <div className="lg:bg-gray-50 lg:p-16 rounded-[4rem] space-y-6 md:flex md:gap-6 justify-center md:space-y-0 lg:items-center">
           <div className="mx-8 md:7/12 lg:w-1/2">
             <h2 className="text-3xl font-bold text-[#009688] md:text-4xl ">
-            ቪላ,አፓርትመንት , ገስት ሀውስ , ኮንዶሚኒየም , ጂ+ , ለሱቅ/ለቢሮ
-ሁሉም እኛ ጋር አለ::
+              ቪላ,አፓርትመንት , ገስት ሀውስ , ኮንዶሚኒየም , ጂ+ , ለሱቅ/ለቢሮ ሁሉም እኛ ጋር አለ::
             </h2>
             <p className="my-8 text-gray-600">
-           
-            Serving Ethiopian home buyers to ease their hunting burden in finding a perfect place they are proud to call home.
+              Serving Ethiopian home buyers to ease their hunting burden in
+              finding a perfect place they are proud to call home.
             </p>
 
-            <Link to="/search" className="self-center w-auto px-8 mr-16 border-0 text-white text-lg btn hover:bg-secondary bg-primary hover:text-white">
+            <Link
+              to="/search"
+              className="self-center w-auto px-8 mr-16 border-0 text-white text-lg btn hover:bg-secondary bg-primary hover:text-white"
+            >
               Get started
             </Link>
           </div>
           <div className="md:5/12 lg:w-1/2">
-            <img src={tempPic} alt="image" loading="lazy" width="" height=""  className="rounded-2xl hover:-translate-y-12 transition-all ease-in-out duration-500" />
+            <img
+              src={tempPic}
+              alt="image"
+              loading="lazy"
+              width=""
+              height=""
+              className="rounded-2xl hover:-translate-y-12 transition-all ease-in-out duration-500"
+            />
           </div>
         </div>
       </section>
@@ -37,7 +46,6 @@ export default function About() {
           </div>
           <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-[#009688] sm:text-4xl md:mx-auto">
             <span className="relative inline-block mr-2">
-         
               <span className="relative">How</span>
             </span>
             To use our website
@@ -113,12 +121,10 @@ export default function About() {
             </div>
             <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-[#009688] sm:text-4xl md:mx-auto">
               <span className="relative inline-block mr-2">
-  
                 <span className="relative">Meet</span>
               </span>
               The developer
             </h2>
-           
           </div>
 
           <div className="flex gap-2 justify-center -mx-4">
@@ -549,7 +555,7 @@ export default function About() {
                 </div>
                 <div className="text-center">
                   <h4 className="mb-2 text-lg font-medium text-dark">
-                    Yosef Lakew
+                    Yohannes Fantahun
                   </h4>
                   <p className="mb-5 text-sm font-medium text-body-color">
                     Web Developer / UI/UX Designer
@@ -566,18 +572,18 @@ export default function About() {
               </p>
               <div className="items-center hidden gap-4 lg:flex">
                 <a
-                  href="https://portifoliov1-three.vercel.app/"
+                  href="#"
                   className="px-5 py-2 text-md font-medium text-gray-600 bg-[#F0FDFA] rounded-lg"
                 >
                   Portfolio
                 </a>
 
                 <a
-                  href="https://github.com/yoseflakew25"
-                  target='_blank'
+                  href="https://github.com/Yohannes-F21"
+                  target="_blank"
                   className="px-5 py-2 text-md font-medium rounded-lg text-white bg-primary hover:bg-gray-800"
                 >
-                 Github
+                  Github
                 </a>
               </div>
             </div>

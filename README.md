@@ -1,6 +1,6 @@
 # HomeFinder
 
-Welcome to HomeFinder, a comprehensive website where you can list and find a variety of homes for rent and purchase. This project is built using the MERN stack (MongoDB, Express.js, React, and Node.js) and offers a seamless and user-friendly experience for both home seekers and property owners.
+Welcome to HomeFinder, a comprehensive platform where users can list and explore a variety of homes for rent or purchase. Built with the MERN stack (MongoDB, Express.js, React, and Node.js), HomeFinder delivers a smooth and user-friendly experience, making it easy for home seekers to find their ideal property and for property owners to manage listings efficiently.
 
 ## Features
 
@@ -15,7 +15,7 @@ Welcome to HomeFinder, a comprehensive website where you can list and find a var
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yoseflakew25/HomeFinder.git`
+1. Clone the repository: `https://github.com/Yohannes-F21/Home-Finder.git`
 2. Navigate to the project directory: `cd HomeFinder`
 3. Install server dependencies: `npm install`
 4. Navigate to the client directory: `cd client`
@@ -45,8 +45,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions regarding HomeFinder, please feel free to reach out to us:
 
-- Email: [jolarohe@gmail.com](mailto:jolarohe@gmail.com)
-- GitHub: [yoseflakew25](https://github.com/yoseflakew25)
+- Email: [yohannesfantahun.m@gmail.com](mailto:yohannesfantahun.m@gmail.com)
+- GitHub: [Yohannes-F21](https://github.com/Yohannes-F21)
 
 We appreciate your interest and support in HomeFinder!
-# Home-Finder
